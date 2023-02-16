@@ -1,0 +1,349 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RH "
+"WooTools translation\n"
+"POT-Creation-Date: "
+"2021-11-10 19:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Sizam "
+"<sizamtheme@gmail.com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"node_modules\n"
+"X-Poedit-"
+"SearchPathExcluded-1: "
+"bundled\n"
+"X-Poedit-"
+"SearchPathExcluded-2: "
+"vendor\n"
+
+#: includes/class-update-checker.php:776
+msgid "Check for updates"
+msgstr ""
+
+#: includes/class-update-checker.php:820
+msgid ""
+"This plugin is up to "
+"date."
+msgstr ""
+
+#: includes/class-update-checker.php:822
+msgid ""
+"A new version of this "
+"plugin is available."
+msgstr ""
+
+#: includes/class-update-checker.php:824
+#, php-format
+msgid ""
+"Unknown update checker "
+"status \"%s\""
+msgstr ""
+
+#: includes/class_rh_wc_accessories.php:52
+#: includes/class_rh_wc_accessories.php:83
+#: public/custom_accessories_tab_content.php:41
+msgid "Accessories"
+msgstr ""
+
+#: includes/class_rh_wc_accessories.php:53
+msgid ""
+"Search for a "
+"product&hellip;"
+msgstr ""
+
+#: includes/class_rh_wc_accessories.php:65
+msgid ""
+"Accessories are products "
+"which you recommend to "
+"be bought along with "
+"this product. Only "
+"simple products can be "
+"added as accessories."
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:23
+msgid "ReHub Tools"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:50
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:55
+msgid ""
+"Hide Description tab"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:56
+msgid ""
+"The option disables "
+"Description tab on "
+"Product page"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:62
+msgid ""
+"Names of the Custom tabs"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:64
+msgid ""
+"List of the Tabs names "
+"separated by semicolons."
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:66
+msgid "Tab1;Tab2;Tab3"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:69
+msgid ""
+"Contents of the Custom "
+"tabs"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:78
+msgid ""
+"Order of the Custom tabs"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:81
+msgid "10;20;30"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:90
+msgid "Fake Soldout block"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:95
+msgid ""
+"Enable Sold out block"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:96
+msgid ""
+"Enable Sold out block on "
+"inner pages"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:102
+msgid "Exlude categories"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:103
+msgid ""
+"List of product "
+"categories id which you "
+"want to exclude from "
+"sold out counter. "
+"Divided by comma"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:109
+msgid "Include categories"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:110
+msgid ""
+"List of product "
+"categories id which you "
+"want to include to sold "
+"out counter. Divided by "
+"comma"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:122
+msgid "Related products"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:127
+msgid ""
+"Hide Related Products"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:128
+msgid ""
+"The option disables "
+"Related Products section "
+"on Product page"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:134
+msgid "Exlude products"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:135
+msgid ""
+"List product IDs "
+"separated by commas "
+"where you want to enable "
+"Related Products."
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:141
+msgid "Include products"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:142
+msgid ""
+"List product IDs "
+"separated by commas "
+"where you want to "
+"disable Related Products."
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:154
+msgid "Product Accessories"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:159
+msgid "Enable Accesories"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:161
+msgid ""
+"The option enables "
+"Accesories tab on "
+"Product page"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:166
+msgid ""
+"Order of the accessory "
+"tab"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:169
+msgid "10"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:172
+msgid ""
+"Title of Accessory Tab"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:173
+msgid "Place title here"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:185
+msgid "Utilities"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:205
+msgid ""
+"Hide Products utility"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:208
+msgid "Run"
+msgstr ""
+
+#: includes/class_rh_wc_settings_tab.php:210
+msgid ""
+"The utility will hide "
+"products which have "
+"identical SKU after "
+"Product import."
+msgstr ""
+
+#: includes/class_rh_wc_tools.php:108
+msgid ""
+"Process is finished."
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:13
+msgid ""
+"No Accessories Found"
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:62
+msgid "This product: "
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:99
+#, php-format
+msgid "%s for %s item(s)"
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:104
+msgid "Add all to cart"
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:113
+msgid ""
+"Products was "
+"successfully added to "
+"your cart."
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:113
+msgid "View Cart"
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:114
+msgid ""
+"No Products selected."
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:115
+msgid ""
+"Product Variation does "
+"not selected."
+msgstr ""
+
+#: public/custom_accessories_tab_content.php:116
+msgid ""
+"Sorry, this product is "
+"unavailable."
+msgstr ""
+
+#: rh-woo-tools.php:39
+#, php-format
+msgid ""
+"Sorry, but RH "
+"WooCommerce Tools works "
+"only with %s and "
+"WooCommerce plugin."
+msgstr ""
