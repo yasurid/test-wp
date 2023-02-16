@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: ReCompare were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://wp.test
+Data file = F:\wamp\www\wp/wp-content/uploads/2023/01/demo-content-import-file_2023-01-10__01-28-09.xml
+Widget file = F:\wamp\www\wp/wp-content/uploads/2023/01/demo-widgets-import-file_2023-01-10__01-28-09.json
+Customizer file = not defined!
+Redux files:
+not defined!
