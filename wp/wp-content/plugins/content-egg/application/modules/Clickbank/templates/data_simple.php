@@ -1,0 +1,39 @@
+<?php
+/*
+  Name: Simple
+ */
+
+__('Simple', 'content-egg-tpl');
+
+use ContentEgg\application\helpers\TemplateHelper;
+?>
+
+<?php
+\wp_enqueue_style('egg-bootstrap');
+\wp_enqueue_style('egg-products');
+?>
+
+<div class="egg-container">
+    <?php if ($title): ?>
+        <h3><?php echo esc_html($title); ?></h3>
+    <?php endif; ?>
+
+    <div class="egg-simplelistcontainer">
+
+        <?php foreach ($items as $item): ?>
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>
+                        <a rel="nofollow" target="_blank" href="<?php echo $item['url']; ?>">
+                            <?php echo $item['title']; ?>
+                        </a>
+                    </h3>
+                    <?php if ($item['description']): ?>    
+                        <p><?php echo $item['description']; ?></p>
+                    <?php endif; ?>
+                </div>
+
+            </div>
+        <?php endforeach; ?>
+    </div>
+</div>
